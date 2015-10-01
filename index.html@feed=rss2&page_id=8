@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comentários sobre: O Programa</title>
+	<atom:link href="http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?feed=rss2&#038;page_id=8" rel="self" type="application/rss+xml" />
+	<link>http://www.wilivro.com.br/interacao/juventudeempreendedoradigital</link>
+	<description>Blog Juventude Empreendedora Digital</description>
+	<lastBuildDate>Tue, 28 Dec 2010 19:54:22 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0</generator>
+	<item>
+		<title>Por: GERLANIO</title>
+		<link>http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?page_id=8#comment-172</link>
+		<dc:creator>GERLANIO</dc:creator>
+		<pubDate>Tue, 21 Dec 2010 23:49:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?page_id=8#comment-172</guid>
+		<description>O Curso Jovem Empreendedor Digital, é uma forma de nos jovens estudantes de escolas publicas, se engressar em um mercado de trabalho, já que para se chegar a ter um emprego de gualidade é preciso a especialização...
+Desde já agradeço a todos os idealizadores desse projeto, que através destes cursos possamos conseguir um futuro melhor para nos e nossa familia.
+OBRIGADO!!!!</description>
+		<content:encoded><![CDATA[<p>O Curso Jovem Empreendedor Digital, é uma forma de nos jovens estudantes de escolas publicas, se engressar em um mercado de trabalho, já que para se chegar a ter um emprego de gualidade é preciso a especialização&#8230;<br />
+Desde já agradeço a todos os idealizadores desse projeto, que através destes cursos possamos conseguir um futuro melhor para nos e nossa familia.<br />
+OBRIGADO!!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comentários sobre: Downloads</title>
+	<atom:link href="http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?feed=rss2&#038;page_id=21" rel="self" type="application/rss+xml" />
+	<link>http://www.wilivro.com.br/interacao/juventudeempreendedoradigital</link>
+	<description>Blog Juventude Empreendedora Digital</description>
+	<lastBuildDate>Tue, 28 Dec 2010 19:54:22 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0</generator>
+	<item>
+		<title>Por: EDCARLOS FERREIRA</title>
+		<link>http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?page_id=21#comment-100</link>
+		<dc:creator>EDCARLOS FERREIRA</dc:creator>
+		<pubDate>Wed, 10 Nov 2010 14:18:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?page_id=21#comment-100</guid>
+		<description>EX ALUNO DA ESCOLA DE REFERENCIA DE IPOJUCA
+AGRADEÇO PELA OPORTUNIDADE DADA A FEST PRODUÇAO
+DESDE JA AGRADECEMOS.</description>
+		<content:encoded><![CDATA[<p>EX ALUNO DA ESCOLA DE REFERENCIA DE IPOJUCA<br />
+AGRADEÇO PELA OPORTUNIDADE DADA A FEST PRODUÇAO<br />
+DESDE JA AGRADECEMOS.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: jefferson</title>
+		<link>http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?page_id=21#comment-81</link>
+		<dc:creator>jefferson</dc:creator>
+		<pubDate>Thu, 21 Oct 2010 00:23:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?page_id=21#comment-81</guid>
+		<description>esse projeto é muito bom!!</description>
+		<content:encoded><![CDATA[<p>esse projeto é muito bom!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
