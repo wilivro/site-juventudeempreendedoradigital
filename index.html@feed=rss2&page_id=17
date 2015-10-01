@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comentários sobre: Concurso</title>
+	<atom:link href="http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?feed=rss2&#038;page_id=17" rel="self" type="application/rss+xml" />
+	<link>http://www.wilivro.com.br/interacao/juventudeempreendedoradigital</link>
+	<description>Blog Juventude Empreendedora Digital</description>
+	<lastBuildDate>Tue, 28 Dec 2010 19:54:22 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.0</generator>
+	<item>
+		<title>Por: muito bom</title>
+		<link>http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?page_id=17#comment-20</link>
+		<dc:creator>muito bom</dc:creator>
+		<pubDate>Fri, 24 Sep 2010 21:48:27 +0000</pubDate>
+		<guid isPermaLink="false">http://www.wilivro.com.br/interacao/juventudeempreendedoradigital/?page_id=17#comment-20</guid>
+		<description>gostei muito dessa imdeia</description>
+		<content:encoded><![CDATA[<p>gostei muito dessa imdeia</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
